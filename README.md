@@ -5,6 +5,7 @@ I come across SO MUCH amazing content while browsing the web, doing research, go
 ## Meta
 
 - [Yandex data school](https://github.com/yandexdataschool)
+  - [Related SPB](https://compscicenter.ru/online/)
 
 ***
 
