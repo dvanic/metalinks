@@ -27,7 +27,7 @@ I come across SO MUCH amazing content while browsing the web, doing research, go
 
 
 ## Bayesian statisitcs
-- [Post with links(https://dyakonov.org/2018/07/30/%D0%B1%D0%B0%D0%B9%D0%B5%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4/)
+- [Post with links](https://dyakonov.org/2018/07/30/%D0%B1%D0%B0%D0%B9%D0%B5%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4/)
 - [MSU course](http://www.machinelearning.ru/wiki/index.php?title=%D0%91%D0%BC%D0%BC%D0%BE)
 
 ## Random cool
