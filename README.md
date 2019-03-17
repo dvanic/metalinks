@@ -6,6 +6,7 @@ I come across SO MUCH amazing content while browsing the web, doing research, go
 
 - [Yandex data school](https://github.com/yandexdataschool)
   - [Related SPB](https://compscicenter.ru/online/)
+  - [Youtube channel](https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA/videos)
 
 ***
 
