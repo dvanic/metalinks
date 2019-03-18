@@ -12,6 +12,9 @@ I come across SO MUCH amazing content while browsing the web, doing research, go
 
 ## Machine learning 
 
+- [Lectures on youtube from IML course Uni Edinburgh](https://www.youtube.com/user/victorlavrenko)
+
+
 ### Tree based methods
 
 - [Hyperparameters and Tuning Strategies for Random Forest](https://arxiv.org/pdf/1804.03515.pdf)
